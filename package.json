@@ -1,0 +1,20 @@
+{
+  "name": "primier",
+  "version": "1.0.0",
+  "description": "book development software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "menoli",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "*",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}
